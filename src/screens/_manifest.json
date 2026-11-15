@@ -1,0 +1,73 @@
+{
+ "app": "Crypto Curry App",
+ "start": "splash",
+ "screens": [
+  {
+   "slug": "iphone-home",
+   "name": "iPhone Home",
+   "page": "Home",
+   "w": 414,
+   "h": 896,
+   "elements": 93,
+   "links": 8
+  },
+  {
+   "slug": "gainer-list",
+   "name": "Gainer_list",
+   "page": "Home",
+   "w": 414,
+   "h": 896,
+   "elements": 102,
+   "links": 9
+  },
+  {
+   "slug": "market",
+   "name": "Market",
+   "page": "Home",
+   "w": 414,
+   "h": 896,
+   "elements": 111,
+   "links": 6
+  },
+  {
+   "slug": "deposit",
+   "name": "Deposit",
+   "page": "Home",
+   "w": 414,
+   "h": 896,
+   "elements": 55,
+   "links": 3
+  },
+  {
+   "slug": "account",
+   "name": "Account",
+   "page": "Home",
+   "w": 414,
+   "h": 896,
+   "elements": 71,
+   "links": 6
+  },
+  {
+   "slug": "sign-up",
+   "name": "Sign Up",
+   "page": "Home",
+   "w": 414,
+   "h": 896,
+   "elements": 18,
+   "links": 2
+  },
+  {
+   "slug": "splash",
+   "name": "Splash",
+   "page": "Home",
+   "w": 414,
+   "h": 896,
+   "elements": 6,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter"
+ ]
+}
